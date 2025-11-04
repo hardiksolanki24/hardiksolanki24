@@ -1,76 +1,101 @@
-# Hardik Solanki  
-*Software Engineer | Java Spring Boot | DevOps & Cloud Enthusiast*  
+<p align="center">
+  <a href="https://github.com/hardiksolanki">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00bcd4&text=Hey,%20I'm%20Hardik%20Solanki!&height=150&fontSize=55&desc=Software%20Engineer%20|%20Java%20Spring%20Boot%20|%20Angular%20|%20DevOps&descAlignY=75&descAlign=63"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hardiksolanki&style=plastic&color=blue" alt="Profile views"/>
+</p>
 
 ---
 
-## 👋 About Me  
-I’m Hardik — a 23-year-old software engineer based in Rajkot, Gujarat, India.  
-I’ve been working with Java and Spring Boot, building microservices and backend systems.  
-I’m now diving deeper into DevOps: CI/CD pipelines, Dockerizing microservices, deploying on Rocky Linux with Terraform, multi-tenant architectures and AWS.  
-When I’m not coding, you’ll find me learning Spanish and exploring how to deliver resilient systems at scale.
+### 👋 Hey there!
+I’m **Hardik Solanki**, a passionate **Software Engineer** who loves building scalable backend systems and rich frontend experiences.  
+My journey revolves around **Java Spring Boot**, **Angular**, and **DevOps** — where I focus on creating seamless integrations from code to cloud ☁️.
+
+💡 *“Write clean code, automate everything, and keep learning.”*  
+
+<img align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" height="250" width="350"/>
+
+- 🌱 Currently mastering **Docker, Kubernetes, and CI/CD pipelines**  
+- ⚙️ Building **multi-tenant microservices** using **Spring Boot**  
+- 🧩 Frontend enthusiast exploring **Angular animations & RxJS patterns**  
+- 📈 Practicing **Data Structures & Algorithms** regularly  
+- 💬 Open to collaborate on **Spring Boot + Angular** or **DevOps automation** projects  
+- ⚡ Fun fact: I enjoy debugging pipelines more than watching Netflix 😄  
 
 ---
 
-## 🔧 Skills & Tech Stack  
-**Backend:** Java, Spring Boot, Spring Batch  
-**Frontend:** Angular, (also familiar with HTML, CSS, JavaScript)  
-**DevOps / Cloud:** Docker, Kubernetes, Terraform, AWS EC2, CI/CD (GitHub Actions, Jenkins)  
-**Architectures:** Microservices, multi-tenant database patterns, event-driven systems  
-**Other:** Git, Linux (Rocky Linux, Ubuntu), SQL/NoSQL, REST/HTTP APIs  
-**Languages:** English (fluent), Gujarati & Hindi (native), Spanish (learning)  
+### 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,html,css,js,ts,bootstrap,docker,kubernetes,terraform,aws,linux,git,github,jenkins,mysql,postgres,mongodb,vscode,postman&perline=9" />
+</p>
 
 ---
 
-## 🎯 Current Focus  
-- Building a CI/CD pipeline from scratch for Spring Boot and Angular applications.  
-- Dockerizing services, managing containers with Kubernetes.  
-- Deploying onto Rocky Linux servers, using Terraform to automate infra.  
-- Implementing multi-tenant microservices: separate DB per tenant, shared code, isolated data.  
-- Learning Spanish so I can broaden my horizons and collaborate globally.  
-
----
-
-## 🧩 Projects  
-Here are some of my recent/resource-worthy projects:
-
+### 🏗️ Projects & Focus
 | Project | Description |
-|---------|-------------|
-| **Hyperpure-style Platform** | A full‐stack site & mobile app (in progress) modeled after a clean “supply-chain to consumer” platform—planning backend (Spring Boot), frontend (Angular), mobile, and DevOps infrastructure. |
-| **Spring Batch + HTTP Endpoint** | A Spring Batch job exposed via HTTP, running on AWS EC2, deployed via CI/CD — part of my DevOps/automation journey. |
-| **Multi-tenant Microservices Demo** | Prototyping a system where each tenant has its own database, services share code but maintain isolated data. |
-| **Docker & Kubernetes Learning Series** | Step-by-step labs and hands-on tutorials as I build my DevOps muscle. |
-
-More details (links, diagrams, code) in the Projects folder and respective repos.
+|----------|-------------|
+| **Hyperpure-like Platform** | A full-stack platform (Spring Boot + Angular) simulating scalable supply-chain operations with containerized deployment. |
+| **CI/CD with Terraform & AWS** | Automated EC2 deployment of Spring Boot microservices with Terraform + GitHub Actions. |
+| **Multi-tenant Microservices Demo** | Backend system separating databases per tenant while keeping code shared. |
+| **Docker Learning Series** | Step-by-step hands-on guides exploring advanced containerization. |
 
 ---
 
-## 🌱 Continuous Learning  
-- 🐳 **Docker**: From basics to advanced, diving deep into containerization and microservices architecture.  
-- 🔄 **DevOps/Infra**: CI/CD pipelines, Terraform + AWS EC2, Kubernetes orchestration, Rocky Linux.  
-- 🌍 **Languages**: Spanish — currently at beginner/middle level; improving daily with apps and conversation.  
-- 🧠 **Algorithms/Data Structures**: Consistently brushing up so I stay sharp, especially given my interest in backend and system design.
+### 💻 Coding Profiles
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">  
+[![LeetCode Badge](https://img.shields.io/badge/hardiksolanki-30302f?style=flat&logo=leetcode)](https://leetcode.com/)  
+[![GeeksForGeeks Badge](https://img.shields.io/badge/hardiksolanki-30302f?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/)  
+[![HackerRank Badge](https://img.shields.io/badge/hardiksolanki-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/)  
 
 ---
 
-## 🤝 Let’s Collaborate  
-I’m open to:  
-- **Research or practical projects** involving microservices, optimization, or distributed systems.  
-- **Open source contributions** — especially in the DevOps, tooling or backend space.  
-- **Networking** with engineers, DevOps practitioners, or Spanish-speaking developers worldwide.
+### 🤝 Connect with Me  
+<h3>
+  <i><b>Let's Connect!</b></i> 🤝
+</h3>
 
-Feel free to connect — I’d love to chat about architecture, deployment strategies, multilingual dev teams, or anything in between.
-
-📧 Email: *[hardikrsolanki24@gmail.com]*  
-🔗 LinkedIn: *[https://www.linkedin.com/in/hardik-solanki-46a25b176/]*  
-🐙 GitHub: [github.com/hardiksolanki24](https://github.com/hardiksolanki24)  
-
----
-
-## 📫 Fun Facts  
-- ⚙️ I built my first microservice at age 22.  
-- 🗣️ I can say “Hola, ¿cómo estás?” but still stumble over past-tenses in Spanish.  
-- 🎮 I find system design discussions almost as fun as videogame level design.
+<a href="https://github.com/hardiksolanki">
+  <img height="40" src="https://skillicons.dev/icons?i=github"/>
+</a>&nbsp;
+<a href="https://linkedin.com/in/hardik-solanki">
+  <img height="40" src="https://skillicons.dev/icons?i=linkedin"/>
+</a>&nbsp;
+<a href="mailto:your-email@example.com">
+  <img height="40" src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
 ---
 
-Thanks for stopping by — and happy coding!
+### 🧩 About Me (YAML Style)
+```yaml
+name: Hardik Solanki
+based_in: Gujarat, India
+role: Software Engineer
+focus_areas: [Backend Development, Frontend (Angular), DevOps]
+tech_stack: [Java, Spring Boot, Angular, Docker, Kubernetes, Terraform, AWS]
+learning: [CI/CD, Advanced DSA, Cloud Automation]
+goals_2025: 
+  - Master CI/CD pipelines and container orchestration
+  - Build & deploy production-grade multi-tenant architecture
+  - Strengthen frontend expertise with Angular animations
+  - Contribute to open-source DevOps tools
+hobbies: [Fitness, Learning Spanish, Exploring Cloud Tools]
+```
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=hardiksolanki&theme=tokyonight&hide_border=true" alt="streak stats"/> <br> <img src="https://github-readme-stats.vercel.app/api?username=hardiksolanki&show_icons=true&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksolanki&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hardiksolanki/hardiksolanki/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hardiksolanki/hardiksolanki/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hardiksolanki/hardiksolanki/output/github-contribution-grid-snake.svg"> </picture> <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!+😊&center=true&color=00bcd4"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p> 
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hardiksolanki/hardiksolanki/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hardiksolanki/hardiksolanki/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/hardiksolanki/hardiksolanki/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
